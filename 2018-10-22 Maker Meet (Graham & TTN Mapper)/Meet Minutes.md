@@ -1,7 +1,7 @@
-# 22 Oct 2018
-# Monthly Maker Meet: The Things Network Meetup: Newcastle & Lake Macquarie
+## 22 Oct 2018
+### Monthly Maker Meet: The Things Network Meetup: Newcastle & Lake Macquarie
 
-## What happened:
+### What happened:
 
 - Started at 6:20PM
 - Welcomed everyone
