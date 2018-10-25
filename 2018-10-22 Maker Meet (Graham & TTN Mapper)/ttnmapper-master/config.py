@@ -28,9 +28,10 @@ LORA_OTAA_KEY     = '9E6105A125A5FA535xxxxF28F85E325'      # See README.md for i
 # Measured airtime of transmission is 56.6 ms, fair use policy limits us to
 # 30 seconds per day (= roughly 500 messages). We default to a 180 second
 # interval (=480 messages / day).
+LORA_SEND_RATE    = 180
 
-# NB - has been adjusted to 10 seconds to accommodate short-use though better resolution (around 1 hour)
-LORA_SEND_RATE    = 10
+# NB - has been adjust to 10 seconds to accommodate short-use though better resolution (around 1 hour)
+#LORA_SEND_RATE    = 10
 
 ###############################################################################
 # GNSS Configuration
