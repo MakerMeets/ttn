@@ -16,5 +16,5 @@
 - Quick discussion about TTN V3 features & rollout
 - Discussed the idea of a "lend-able" TTN Mapper (built it since!)
 - Call for support with an RPi/LoRa project (more info to come)
-- Quick intro for the next meetup
+- Quick intro for the [next meetup](https://www.meetup.com/The-Things-Network-Meetup-Newcastle-Lake-Macquarie/)
 - Finished at 8:15PM
