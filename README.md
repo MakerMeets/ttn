@@ -2,9 +2,7 @@
 
 We'll share slides and handy info here from each meet. 
 
-Unless otherwise stated, content within this repositry is licensed with CC BY-SA
-
-https://creativecommons.org/licenses/by-sa/3.0/au/
+Unless otherwise stated, content within this repositry is available under a MIT License (refer the file [LICENSE](https://github.com/MakerMeets/ttn/blob/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)/ttnmapper-master/LICENSE))
 
 ## Past events & minutes (here is a [ZIP download link](https://github.com/MakerMeets/ttn/archive/master.zip) for all minutes & resources)
 
