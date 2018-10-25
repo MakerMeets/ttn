@@ -6,7 +6,7 @@ Unless otherwise stated, content within this repositry is licensed with CC BY-SA
 
 https://creativecommons.org/licenses/by-sa/3.0/au/
 
-## Past events & minutes
+## Past events & minutes (here is a [ZIP download link](https://github.com/MakerMeets/ttn/archive/master.zip) for all minutes & resources)
 
 #### [22 Oct 2018](https://github.com/MakerMeets/ttn/tree/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)) - The Things Network Meetup: Newcastle & Lake Macquarie
 
