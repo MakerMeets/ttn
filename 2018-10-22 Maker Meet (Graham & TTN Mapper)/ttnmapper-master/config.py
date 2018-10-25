@@ -30,7 +30,7 @@ LORA_OTAA_KEY     = '9E6105A125A5FA535xxxxF28F85E325'      # See README.md for i
 # interval (=480 messages / day).
 LORA_SEND_RATE    = 180
 
-# NB - has been adjust to 10 seconds to accommodate short-use though better resolution (around 1 hour)
+# NB - has been adjust to 10 seconds to accommodate short-use though better resolution (around 1 hour - don't leave it on though!)
 #LORA_SEND_RATE    = 10
 
 ###############################################################################
