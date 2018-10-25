@@ -1,4 +1,4 @@
-# Monthly Maker Meet Repo for TTN & LoRa (Newcastle & Lake Macquarie)
+# Monthly Maker Meet: The Things Network Meetup: Newcastle & Lake Macquarie
 
 We'll share slides and handy info here from each meet. 
 
@@ -6,7 +6,7 @@ Unless otherwise stated, content within this repositry is available under a MIT 
 
 ## Past events & minutes (here is a [ZIP download link](https://github.com/MakerMeets/ttn/archive/master.zip) for all minutes & resources)
 
-#### [22 Oct 2018](https://github.com/MakerMeets/ttn/tree/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)) - The Things Network Meetup: Newcastle & Lake Macquarie
+#### [22 Oct 2018](https://github.com/MakerMeets/ttn/tree/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)) Meetup Event
 
 ##### What happened:
 
