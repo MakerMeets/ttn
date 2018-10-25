@@ -1,7 +1,6 @@
-## 22 Oct 2018
-### Monthly Maker Meet: The Things Network Meetup: Newcastle & Lake Macquarie
+#### [22 Oct 2018](https://github.com/MakerMeets/ttn/tree/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)) Meetup Event
 
-### What happened:
+##### What happened:
 
 - Started at 6:20PM
 - Welcomed everyone
