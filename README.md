@@ -17,6 +17,14 @@ Unless otherwise stated, content within this repositry is available under a MIT 
 - TTN V3 Updates https://www.thethingsnetwork.org/article/the-things-network-stack-v3-update
 - LoPy4 & THINGS Event https://www.thethingsnetwork.org/community/newcastle-lakemac/post/lopy4-and-things
 - Node-RED Demo
+-- Node pallet, main workspace, outout pane
+-- Core vs External nodes
+-- Message payload format
+-- What makes Node-RED special - Self contained and reusable Javascript, program logic and API overhead are hidden inside each node box
+-- How to modify nodes
+-- Flow input/output via wires
+-- Modified dots -> not depoyed
+-- How to install nodes
 - Show the new community mapper format & features
 - Ask around for current / planned projects
 - Break for food
@@ -34,6 +42,7 @@ Unless otherwise stated, content within this repositry is available under a MIT 
 ##### Recommended Guides:
 
 - Intro to Node-RED: Part 1 Fundamentals https://www.youtube.com/watch?v=3AR432bguOY
+- Node-RED Message Object for Beginners https://www.youtube.com/watch?v=y05vQUIMIxs
 - Intro to Node-RED: Part 2 Best Practices https://www.youtube.com/watch?v=V0SmNcIYCtQ
 - Intro to Node-RED: Part 3 Advanced Nodes https://www.youtube.com/watch?v=bovIZtgL68E
 - Node-RED Tutorial: Email Alerts & Notifications https://www.youtube.com/watch?v=qw3oKBp4rrQ
