@@ -10,43 +10,43 @@ Unless otherwise stated, content within this repositry is available under a MIT 
 
 ##### Agenda
 
-- Welcome
-- Who's who
-- Recommend those who are new to check out the beginners workshop https://core-electronics.com.au/lora-the-things-network-ttn-workshop.html
-- Current TTN Mapper map https://ttnmapper.org/
-- TTN V3 Updates https://www.thethingsnetwork.org/article/the-things-network-stack-v3-update
-- LoPy4 & THINGS Event https://www.thethingsnetwork.org/community/newcastle-lakemac/post/lopy4-and-things
-- Node-RED Demo
--- Node pallet, main workspace, outout pane
--- Core vs External nodes
--- Message payload format
--- What makes Node-RED special - Self contained and reusable Javascript, program logic and API overhead are hidden inside each node box
--- How to modify nodes
--- Flow input/output via wires
--- Modified dots -> not depoyed
--- How to install nodes
-- Show the new community mapper format & features
-- Ask around for current / planned projects
-- Break for food
+* Welcome
+* Who's who
+* Recommend those who are new to check out the beginners workshop https://core-electronics.com.au/lora-the-things-network-ttn-workshop.html
+* Current TTN Mapper map https://ttnmapper.org/
+* TTN V3 Updates https://www.thethingsnetwork.org/article/the-things-network-stack-v3-update
+* LoPy4 & THINGS Event https://www.thethingsnetwork.org/community/newcastle-lakemac/post/lopy4-and-things
+* Node-RED Demo
+  * Node pallet, main workspace, outout pane
+   Core vs External nodes
+  * Message payload format
+  * What makes Node-RED special - Self contained and reusable Javascript, program logic and API overhead are hidden inside each node box
+  * How to modify nodes
+  * Flow input/output via wires
+  * Modified dots -> not depoyed
+  * How to install nodes
+* Show the new community mapper format & features
+* Ask around for current / planned projects
+* Break for food
 
 ##### Resources:
 
-- https://nodered.org/docs/hardware/raspberrypi
-- https://www.thethingsnetwork.org/docs/applications/nodered/quick-start.html
+* https://nodered.org/docs/hardware/raspberrypi
+* https://www.thethingsnetwork.org/docs/applications/nodered/quick-start.html
 
 ##### Discussed Nodes:
 
-- https://www.npmjs.com/package/node-red-contrib-ttn
-- https://flows.nodered.org/node/node-red-node-email
+* https://www.npmjs.com/package/node-red-contrib-ttn
+* https://flows.nodered.org/node/node-red-node-email
 
 ##### Recommended Guides:
 
-- Intro to Node-RED: Part 1 Fundamentals https://www.youtube.com/watch?v=3AR432bguOY
-- Node-RED Message Object for Beginners https://www.youtube.com/watch?v=y05vQUIMIxs
-- Intro to Node-RED: Part 2 Best Practices https://www.youtube.com/watch?v=V0SmNcIYCtQ
-- Intro to Node-RED: Part 3 Advanced Nodes https://www.youtube.com/watch?v=bovIZtgL68E
-- Node-RED Tutorial: Email Alerts & Notifications https://www.youtube.com/watch?v=qw3oKBp4rrQ
-- Use Node-RED with Weather Underground API to Turn Lights On/Off at Sunrise/ Sunset https://www.youtube.com/watch?v=gpuJIoQFQn8
+* Intro to Node-RED: Part 1 Fundamentals https://www.youtube.com/watch?v=3AR432bguOY
+* Node-RED Message Object for Beginners https://www.youtube.com/watch?v=y05vQUIMIxs
+* Intro to Node-RED: Part 2 Best Practices https://www.youtube.com/watch?v=V0SmNcIYCtQ
+* Intro to Node-RED: Part 3 Advanced Nodes https://www.youtube.com/watch?v=bovIZtgL68E
+* Node-RED Tutorial: Email Alerts & Notifications https://www.youtube.com/watch?v=qw3oKBp4rrQ
+* Use Node-RED with Weather Underground API to Turn Lights On/Off at Sunrise/ Sunset https://www.youtube.com/watch?v=gpuJIoQFQn8
 
 #### [22 Oct 2018](https://github.com/MakerMeets/ttn/tree/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)) Meetup Event
 
