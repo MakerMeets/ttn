@@ -6,6 +6,20 @@ Unless otherwise stated, content within this repositry is available under a MIT 
 
 ## Past events & minutes (here is a [ZIP download link](https://github.com/MakerMeets/ttn/archive/master.zip) for all minutes & resources)
 
+#### [19 Nov 2018](https://github.com/MakerMeets/ttn/tree/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)) Meetup Event
+
+##### Agenda
+
+- Welcome
+- Who's who
+- Intro beginners workshop
+- Current TTN Mapper map
+- TTN V3 Updates https://www.thethingsnetwork.org/article/the-things-network-stack-v3-update
+- LoPy4 & THINGS Event https://www.thethingsnetwork.org/community/newcastle-lakemac/post/lopy4-and-things
+- Demo the new community mapper format
+- Ask around for current / planned projects
+- 
+
 #### [22 Oct 2018](https://github.com/MakerMeets/ttn/tree/master/2018-10-22%20Maker%20Meet%20(Graham%20%26%20TTN%20Mapper)) Meetup Event
 
 ##### What happened:
