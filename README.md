@@ -6,7 +6,7 @@ Unless otherwise stated, content within this repositry is available under a MIT 
 
 ## Past events & minutes (here is a [ZIP download link](https://github.com/MakerMeets/ttn/archive/master.zip) for all minutes & resources)
 
-#### 19 Nov 2018 Meetup Event - Intro to Node-RED
+#### 19 Nov 2018 Meetup Event - Primer: Node-RED
 
 ##### Agenda
 
